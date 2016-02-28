@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "intent": "AskTrumpIntent",
+      "slots":[
+        {
+          "name": "Keyword",
+          "type": "LIST_OF_KEYWORDS"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

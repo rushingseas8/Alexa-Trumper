@@ -1,0 +1,2 @@
+AskTrumpIntent {Keyword}
+AskTrumpIntent about {Keyword}
